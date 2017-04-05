@@ -10,6 +10,8 @@ and open the template in the editor.
 
 #maPhoto{
     margin-right: 10px;
+    width: 210px;
+    height: 150px;
 }
 
 #copyright{
